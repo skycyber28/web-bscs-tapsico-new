@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #2b2d42    ;
+    
+}
+
+.nav-link:hover{
+    color: crimson;
+}
+
+.container-fluid > .row{
+    margin: 0;
+}
